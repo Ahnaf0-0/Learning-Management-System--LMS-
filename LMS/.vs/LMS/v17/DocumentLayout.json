@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\coding\\C#__OOP2\\LMS\\",
+  "WorkspaceRootPath": "C:\\Users\\HBOSS01\\OneDrive - American International University-Bangladesh\\C#_Project\\Learning-Management-System--LMS-\\LMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9936F1A-7885-413B-822A-4240B0341750}|LMS.csproj|c:\\users\\ahnaf\\onedrive - american international university-bangladesh\\coding\\c#__oop2\\lms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B9936F1A-7885-413B-822A-4240B0341750}|LMS.csproj|c:\\users\\hboss01\\onedrive - american international university-bangladesh\\c#_project\\learning-management-system--lms-\\lms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B9936F1A-7885-413B-822A-4240B0341750}|LMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9936F1A-7885-413B-822A-4240B0341750}|LMS.csproj|C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\coding\\C#__OOP2\\LMS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9936F1A-7885-413B-822A-4240B0341750}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive - American International University-Bangladesh\\C#_Project\\Learning-Management-System--LMS-\\LMS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9936F1A-7885-413B-822A-4240B0341750}|LMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\coding\\C#__OOP2\\LMS\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive - American International University-Bangladesh\\C#_Project\\Learning-Management-System--LMS-\\LMS\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\coding\\C#__OOP2\\LMS\\Form1.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive - American International University-Bangladesh\\C#_Project\\Learning-Management-System--LMS-\\LMS\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAnwBgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T05:40:27.992Z",
               "EditorCaption": ""
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\coding\\C#__OOP2\\LMS\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive - American International University-Bangladesh\\C#_Project\\Learning-Management-System--LMS-\\LMS\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\coding\\C#__OOP2\\LMS\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive - American International University-Bangladesh\\C#_Project\\Learning-Management-System--LMS-\\LMS\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T05:39:03.656Z",
