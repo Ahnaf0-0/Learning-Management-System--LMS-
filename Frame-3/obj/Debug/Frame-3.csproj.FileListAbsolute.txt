@@ -1,0 +1,10 @@
+C:\Users\USER\OneDrive - American International University-Bangladesh\C#_Project\Learning-Management-System--LMS-\Frame-3\bin\Debug\Frame-3.exe.config
+C:\Users\USER\OneDrive - American International University-Bangladesh\C#_Project\Learning-Management-System--LMS-\Frame-3\bin\Debug\Frame-3.exe
+C:\Users\USER\OneDrive - American International University-Bangladesh\C#_Project\Learning-Management-System--LMS-\Frame-3\bin\Debug\Frame-3.pdb
+C:\Users\USER\OneDrive - American International University-Bangladesh\C#_Project\Learning-Management-System--LMS-\Frame-3\obj\Debug\Frame-3.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive - American International University-Bangladesh\C#_Project\Learning-Management-System--LMS-\Frame-3\obj\Debug\Frame_3.Form1.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\C#_Project\Learning-Management-System--LMS-\Frame-3\obj\Debug\Frame_3.Properties.Resources.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\C#_Project\Learning-Management-System--LMS-\Frame-3\obj\Debug\Frame-3.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive - American International University-Bangladesh\C#_Project\Learning-Management-System--LMS-\Frame-3\obj\Debug\Frame-3.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive - American International University-Bangladesh\C#_Project\Learning-Management-System--LMS-\Frame-3\obj\Debug\Frame-3.exe
+C:\Users\USER\OneDrive - American International University-Bangladesh\C#_Project\Learning-Management-System--LMS-\Frame-3\obj\Debug\Frame-3.pdb

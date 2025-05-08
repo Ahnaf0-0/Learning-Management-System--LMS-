@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Frame_3
+namespace Fram_4
 {
     public partial class Form1: Form
     {
@@ -17,7 +17,7 @@ namespace Frame_3
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e)
         {
 
         }

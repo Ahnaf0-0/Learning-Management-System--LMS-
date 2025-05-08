@@ -30,12 +30,11 @@
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive - American International University-Bangladesh\\C#_Project\\Learning-Management-System--LMS-\\Frame_2\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive - American International University-Bangladesh\\C#_Project\\Learning-Management-System--LMS-\\Frame_2\\Form1.Designer.cs*",
-              "RelativeToolTip": "Form1.Designer.cs*",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - American International University-Bangladesh\\C#_Project\\Learning-Management-System--LMS-\\Frame_2\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T15:39:34.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T15:39:34.747Z"
             },
             {
               "$type": "Document",
@@ -43,9 +42,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive - American International University-Bangladesh\\C#_Project\\Learning-Management-System--LMS-\\Frame_2\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive - American International University-Bangladesh\\C#_Project\\Learning-Management-System--LMS-\\Frame_2\\Form1.cs*",
-              "RelativeToolTip": "Form1.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAgwAYAAAASAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - American International University-Bangladesh\\C#_Project\\Learning-Management-System--LMS-\\Frame_2\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T07:07:31.125Z",
               "EditorCaption": ""
@@ -56,11 +55,10 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive - American International University-Bangladesh\\C#_Project\\Learning-Management-System--LMS-\\Frame_2\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive - American International University-Bangladesh\\C#_Project\\Learning-Management-System--LMS-\\Frame_2\\Form1.cs [Design]*",
-              "RelativeToolTip": "Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - American International University-Bangladesh\\C#_Project\\Learning-Management-System--LMS-\\Frame_2\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T07:04:41.97Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-08T07:04:41.97Z"
             }
           ]
         }
