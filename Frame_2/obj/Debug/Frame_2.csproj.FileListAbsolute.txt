@@ -8,3 +8,13 @@ C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\C#_Proj
 C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\C#_Project\Learning-Management-System--LMS-\Frame_2\obj\Debug\Frame_2.csproj.CoreCompileInputs.cache
 C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\C#_Project\Learning-Management-System--LMS-\Frame_2\obj\Debug\Frame_2.exe
 C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\C#_Project\Learning-Management-System--LMS-\Frame_2\obj\Debug\Frame_2.pdb
+C:\Users\USER\OneDrive - American International University-Bangladesh\C#_Project\Learning-Management-System--LMS-\Frame_2\bin\Debug\Frame_2.exe.config
+C:\Users\USER\OneDrive - American International University-Bangladesh\C#_Project\Learning-Management-System--LMS-\Frame_2\bin\Debug\Frame_2.exe
+C:\Users\USER\OneDrive - American International University-Bangladesh\C#_Project\Learning-Management-System--LMS-\Frame_2\bin\Debug\Frame_2.pdb
+C:\Users\USER\OneDrive - American International University-Bangladesh\C#_Project\Learning-Management-System--LMS-\Frame_2\obj\Debug\Frame_2.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive - American International University-Bangladesh\C#_Project\Learning-Management-System--LMS-\Frame_2\obj\Debug\Frame_2.Form1.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\C#_Project\Learning-Management-System--LMS-\Frame_2\obj\Debug\Frame_2.Properties.Resources.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\C#_Project\Learning-Management-System--LMS-\Frame_2\obj\Debug\Frame_2.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive - American International University-Bangladesh\C#_Project\Learning-Management-System--LMS-\Frame_2\obj\Debug\Frame_2.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive - American International University-Bangladesh\C#_Project\Learning-Management-System--LMS-\Frame_2\obj\Debug\Frame_2.exe
+C:\Users\USER\OneDrive - American International University-Bangladesh\C#_Project\Learning-Management-System--LMS-\Frame_2\obj\Debug\Frame_2.pdb

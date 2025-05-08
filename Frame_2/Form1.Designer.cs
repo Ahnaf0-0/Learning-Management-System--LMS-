@@ -48,31 +48,32 @@
             this.tARIKULISLAMToolStripMenuItem,
             this.aHNAFHASANToolStripMenuItem});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(211, 100);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(184, 76);
             // 
             // mDFHASNATToolStripMenuItem
             // 
             this.mDFHASNATToolStripMenuItem.Name = "mDFHASNATToolStripMenuItem";
-            this.mDFHASNATToolStripMenuItem.Size = new System.Drawing.Size(210, 32);
+            this.mDFHASNATToolStripMenuItem.Size = new System.Drawing.Size(183, 24);
             this.mDFHASNATToolStripMenuItem.Text = "MD_F_HASNAT";
             // 
             // tARIKULISLAMToolStripMenuItem
             // 
             this.tARIKULISLAMToolStripMenuItem.Name = "tARIKULISLAMToolStripMenuItem";
-            this.tARIKULISLAMToolStripMenuItem.Size = new System.Drawing.Size(210, 32);
+            this.tARIKULISLAMToolStripMenuItem.Size = new System.Drawing.Size(183, 24);
             this.tARIKULISLAMToolStripMenuItem.Text = "TARIKUL_ISLAM";
             // 
             // aHNAFHASANToolStripMenuItem
             // 
             this.aHNAFHASANToolStripMenuItem.Name = "aHNAFHASANToolStripMenuItem";
-            this.aHNAFHASANToolStripMenuItem.Size = new System.Drawing.Size(210, 32);
+            this.aHNAFHASANToolStripMenuItem.Size = new System.Drawing.Size(183, 24);
             this.aHNAFHASANToolStripMenuItem.Text = "AHNAF_HASAN";
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(943, 523);
+            this.button1.Location = new System.Drawing.Point(838, 418);
+            this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(136, 39);
+            this.button1.Size = new System.Drawing.Size(121, 31);
             this.button1.TabIndex = 3;
             this.button1.Text = "Click Here..";
             this.button1.UseVisualStyleBackColor = true;
@@ -84,20 +85,22 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(317, 254);
+            this.textBox1.Location = new System.Drawing.Point(241, 171);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(417, 26);
+            this.textBox1.Size = new System.Drawing.Size(371, 22);
             this.textBox1.TabIndex = 2;
             this.textBox1.Text = "1221";
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged_1);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1108, 599);
+            this.ClientSize = new System.Drawing.Size(985, 479);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox1);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
