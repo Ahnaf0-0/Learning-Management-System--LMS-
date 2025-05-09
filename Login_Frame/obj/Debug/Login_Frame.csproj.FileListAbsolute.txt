@@ -1,0 +1,12 @@
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Learning-Management-System--LMS-\Login_Frame\bin\Debug\Login_Frame.exe.config
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Learning-Management-System--LMS-\Login_Frame\bin\Debug\Login_Frame.exe
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Learning-Management-System--LMS-\Login_Frame\bin\Debug\Login_Frame.pdb
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Learning-Management-System--LMS-\Login_Frame\obj\Debug\Login_Frame.csproj.AssemblyReference.cache
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Learning-Management-System--LMS-\Login_Frame\obj\Debug\Login_Frame.Form1.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Learning-Management-System--LMS-\Login_Frame\obj\Debug\Login_Frame.Properties.Resources.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Learning-Management-System--LMS-\Login_Frame\obj\Debug\Login_Frame.csproj.GenerateResource.cache
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Learning-Management-System--LMS-\Login_Frame\obj\Debug\Login_Frame.csproj.CoreCompileInputs.cache
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Learning-Management-System--LMS-\Login_Frame\obj\Debug\Login_Frame.exe
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Learning-Management-System--LMS-\Login_Frame\obj\Debug\Login_Frame.pdb
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Learning-Management-System--LMS-\Login_Frame\bin\Debug\MaterialSkin.dll
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Learning-Management-System--LMS-\Login_Frame\obj\Debug\Login_Fr.3CE5834E.Up2Date
