@@ -1,2 +1,0 @@
-# Learning Management System (LMS)
-
