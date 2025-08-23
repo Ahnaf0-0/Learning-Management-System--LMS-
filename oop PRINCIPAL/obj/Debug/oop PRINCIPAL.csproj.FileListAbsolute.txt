@@ -1,8 +1,0 @@
-C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Learning-Management-System--LMS-\oop PRINCIPAL\bin\Debug\oop PRINCIPAL.exe.config
-C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Learning-Management-System--LMS-\oop PRINCIPAL\bin\Debug\oop PRINCIPAL.exe
-C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Learning-Management-System--LMS-\oop PRINCIPAL\bin\Debug\oop PRINCIPAL.pdb
-C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Learning-Management-System--LMS-\oop PRINCIPAL\obj\Debug\oop PRINCIPAL.csproj.AssemblyReference.cache
-C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Learning-Management-System--LMS-\oop PRINCIPAL\obj\Debug\oop PRINCIPAL.csproj.CoreCompileInputs.cache
-C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Learning-Management-System--LMS-\oop PRINCIPAL\obj\Debug\oop PRINCIPAL.exe
-C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Learning-Management-System--LMS-\oop PRINCIPAL\obj\Debug\oop PRINCIPAL.pdb
-C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Learning-Management-System--LMS-\oop PRINCIPAL\obj\Debug\oop PRINCIPAL.exe.config
