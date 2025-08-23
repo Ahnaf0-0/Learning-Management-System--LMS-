@@ -1,0 +1,804 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|g:\\other computers\\my drives\\mehedi--cse--course\\c#__oop2\\project\\lms\\studentpanel\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:studentpanel\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentpanel\\studentassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:studentpanel\\studentassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentpanel\\quizattempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:studentpanel\\quizattempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentpanel\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:studentpanel\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentpanel\\quizattempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:studentpanel\\quizattempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentpanel\\gradereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:studentpanel\\gradereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentpanel\\studentassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:studentpanel\\studentassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentpanel\\gradereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:studentpanel\\gradereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentpanel\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:studentpanel\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentpanel\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:studentpanel\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentpanel\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:studentpanel\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentpanel\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:studentpanel\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminpanel\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:adminpanel\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminpanel\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:adminpanel\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultypanel\\facultydashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:facultypanel\\facultydashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultypanel\\facultydashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:facultypanel\\facultydashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\login panel\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:login panel\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\login panel\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:login panel\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultypanel\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:facultypanel\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultypanel\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:facultypanel\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultypanel\\facultyquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:facultypanel\\facultyquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\login panel\\sign_up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:login panel\\sign_up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminpanel\\manage_faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:adminpanel\\manage_faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\login panel\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:login panel\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminpanel\\courseadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:adminpanel\\courseadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminpanel\\manage_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:adminpanel\\manage_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultypanel\\tassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:facultypanel\\tassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminpanel\\assigncources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:adminpanel\\assigncources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminpanel\\adprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:adminpanel\\adprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\login panel\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:login panel\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\login panel\\forgetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:login panel\\forgetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\login panel\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:login panel\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\login panel\\contact_us.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:login panel\\contact_us.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\login panel\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:login panel\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultypanel\\facultyquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:facultypanel\\facultyquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultypanel\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:facultypanel\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultypanel\\tassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:facultypanel\\tassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminpanel\\manage_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:adminpanel\\manage_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminpanel\\assigncources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:adminpanel\\assigncources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminpanel\\courseadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:adminpanel\\courseadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminpanel\\manage_faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:adminpanel\\manage_faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminpanel\\adprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:adminpanel\\adprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\login panel\\contact_us.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:login panel\\contact_us.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\login panel\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:login panel\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\login panel\\forgetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:login panel\\forgetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\rounded region\\roundedregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:rounded region\\roundedregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\rounded region\\dragform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:rounded region\\dragform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\database connection\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:database connection\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentpanel\\quiz.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:studentpanel\\quiz.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Quiz.cs [Design]",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentPanel\\Quiz.cs",
+              "RelativeDocumentMoniker": "studentPanel\\Quiz.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentPanel\\Quiz.cs [Design]",
+              "RelativeToolTip": "studentPanel\\Quiz.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T13:33:36.7Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuizAttempt.cs [Design]",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentPanel\\QuizAttempt.cs",
+              "RelativeDocumentMoniker": "studentPanel\\QuizAttempt.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentPanel\\QuizAttempt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:10:49.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuizAttempt.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentPanel\\QuizAttempt.cs",
+              "RelativeDocumentMoniker": "studentPanel\\QuizAttempt.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentPanel\\QuizAttempt.cs",
+              "RelativeToolTip": "studentPanel\\QuizAttempt.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAwwHcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:10:52.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentPanel\\Quiz.cs",
+              "RelativeDocumentMoniker": "studentPanel\\Quiz.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentPanel\\Quiz.cs",
+              "RelativeToolTip": "studentPanel\\Quiz.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAYwKsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T01:09:23.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "gradeReport.cs [Design]",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentPanel\\gradeReport.cs",
+              "RelativeDocumentMoniker": "studentPanel\\gradeReport.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentPanel\\gradeReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T16:30:11.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "studentAssignment.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentPanel\\studentAssignment.cs",
+              "RelativeDocumentMoniker": "studentPanel\\studentAssignment.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentPanel\\studentAssignment.cs",
+              "RelativeToolTip": "studentPanel\\studentAssignment.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAmwO8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T01:06:51.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "studentAssignment.cs [Design]",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentPanel\\studentAssignment.cs",
+              "RelativeDocumentMoniker": "studentPanel\\studentAssignment.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentPanel\\studentAssignment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T01:05:41.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "gradeReport.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentPanel\\gradeReport.cs",
+              "RelativeDocumentMoniker": "studentPanel\\gradeReport.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentPanel\\gradeReport.cs",
+              "RelativeToolTip": "studentPanel\\gradeReport.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAYwFwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-07-20T16:33:40.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "studentDashboard.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentPanel\\studentDashboard.cs",
+              "RelativeDocumentMoniker": "studentPanel\\studentDashboard.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentPanel\\studentDashboard.cs",
+              "RelativeToolTip": "studentPanel\\studentDashboard.cs",
+              "ViewState": "AgIAAFYBAAAAAAAAAAAUwGwBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-06-25T00:45:40.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "studentDashboard.cs [Design]",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentPanel\\studentDashboard.cs",
+              "RelativeDocumentMoniker": "studentPanel\\studentDashboard.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentPanel\\studentDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-06-25T00:44:07.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "studentProfile.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentPanel\\studentProfile.cs",
+              "RelativeDocumentMoniker": "studentPanel\\studentProfile.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentPanel\\studentProfile.cs",
+              "RelativeToolTip": "studentPanel\\studentProfile.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAUwLIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-07-06T10:46:45.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "studentProfile.cs [Design]",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentPanel\\studentProfile.cs",
+              "RelativeDocumentMoniker": "studentPanel\\studentProfile.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentPanel\\studentProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-06-25T01:04:54.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Admin_Dashboard.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\Admin_Dashboard.cs",
+              "RelativeDocumentMoniker": "adminPanel\\Admin_Dashboard.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\Admin_Dashboard.cs",
+              "RelativeToolTip": "adminPanel\\Admin_Dashboard.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAqwKsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-06-25T20:20:10.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Admin_Dashboard.cs [Design]",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\Admin_Dashboard.cs",
+              "RelativeDocumentMoniker": "adminPanel\\Admin_Dashboard.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\Admin_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-06-25T04:47:40.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FacultyDashboard.cs [Design]",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultyPanel\\FacultyDashboard.cs",
+              "RelativeDocumentMoniker": "facultyPanel\\FacultyDashboard.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultyPanel\\FacultyDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-06-24T23:43:07.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FacultyDashboard.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultyPanel\\FacultyDashboard.cs",
+              "RelativeDocumentMoniker": "facultyPanel\\FacultyDashboard.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultyPanel\\FacultyDashboard.cs",
+              "RelativeToolTip": "facultyPanel\\FacultyDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-06-24T22:08:58.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Homepage.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\Homepage.cs",
+              "RelativeDocumentMoniker": "LogIn Panel\\Homepage.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\Homepage.cs",
+              "RelativeToolTip": "LogIn Panel\\Homepage.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T01:51:44.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Homepage.cs [Design]",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\Homepage.cs",
+              "RelativeDocumentMoniker": "LogIn Panel\\Homepage.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\Homepage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:56:22.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProfileForm.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultyPanel\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "facultyPanel\\ProfileForm.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultyPanel\\ProfileForm.cs",
+              "RelativeToolTip": "facultyPanel\\ProfileForm.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwGoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:21:01.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T11:01:30.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProfileForm.cs [Design]",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultyPanel\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "facultyPanel\\ProfileForm.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultyPanel\\ProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:20:19.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "facultyQuiz.cs [Design]",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultyPanel\\facultyQuiz.cs",
+              "RelativeDocumentMoniker": "facultyPanel\\facultyQuiz.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultyPanel\\facultyQuiz.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:23:59.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Sign_Up.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\Sign_Up.cs",
+              "RelativeDocumentMoniker": "LogIn Panel\\Sign_Up.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\Sign_Up.cs",
+              "RelativeToolTip": "LogIn Panel\\Sign_Up.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T11:24:14.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Manage_Faculty.cs [Design]",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\Manage_Faculty.cs",
+              "RelativeDocumentMoniker": "adminPanel\\Manage_Faculty.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\Manage_Faculty.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:35:12.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "About.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\About.cs",
+              "RelativeDocumentMoniker": "LogIn Panel\\About.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\About.cs",
+              "RelativeToolTip": "LogIn Panel\\About.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:54:55.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "courseAdd.cs [Design]",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\courseAdd.cs",
+              "RelativeDocumentMoniker": "adminPanel\\courseAdd.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\courseAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:34:17.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Manage_Student.cs [Design]",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\Manage_Student.cs",
+              "RelativeDocumentMoniker": "adminPanel\\Manage_Student.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\Manage_Student.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:39:21.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TAssignment.cs [Design]",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultyPanel\\TAssignment.cs",
+              "RelativeDocumentMoniker": "facultyPanel\\TAssignment.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultyPanel\\TAssignment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:20:22.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "assignCources.cs [Design]",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\assignCources.cs",
+              "RelativeDocumentMoniker": "adminPanel\\assignCources.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\assignCources.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:32:56.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AdProfile.cs [Design]",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\AdProfile.cs",
+              "RelativeDocumentMoniker": "adminPanel\\AdProfile.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\AdProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:53:01.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LogIn Panel\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:21:40.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "forgetPass.cs [Design]",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\forgetPass.cs",
+              "RelativeDocumentMoniker": "LogIn Panel\\forgetPass.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\forgetPass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T11:07:46.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Courses.cs [Design]",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\Courses.cs",
+              "RelativeDocumentMoniker": "LogIn Panel\\Courses.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\Courses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T11:07:04.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Contact_Us.cs [Design]",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\Contact_Us.cs",
+              "RelativeDocumentMoniker": "LogIn Panel\\Contact_Us.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\Contact_Us.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:56:56.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Courses.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\Courses.cs",
+              "RelativeDocumentMoniker": "LogIn Panel\\Courses.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\Courses.cs",
+              "RelativeToolTip": "LogIn Panel\\Courses.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAqwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T11:21:43.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "facultyQuiz.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultyPanel\\facultyQuiz.cs",
+              "RelativeDocumentMoniker": "facultyPanel\\facultyQuiz.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultyPanel\\facultyQuiz.cs",
+              "RelativeToolTip": "facultyPanel\\facultyQuiz.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:33:36.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CourseForm.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultyPanel\\CourseForm.cs",
+              "RelativeDocumentMoniker": "facultyPanel\\CourseForm.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultyPanel\\CourseForm.cs",
+              "RelativeToolTip": "facultyPanel\\CourseForm.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAkwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:34:56.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TAssignment.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultyPanel\\TAssignment.cs",
+              "RelativeDocumentMoniker": "facultyPanel\\TAssignment.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultyPanel\\TAssignment.cs",
+              "RelativeToolTip": "facultyPanel\\TAssignment.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:20:26.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Manage_Student.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\Manage_Student.cs",
+              "RelativeDocumentMoniker": "adminPanel\\Manage_Student.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\Manage_Student.cs",
+              "RelativeToolTip": "adminPanel\\Manage_Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:39:27.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "assignCources.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\assignCources.cs",
+              "RelativeDocumentMoniker": "adminPanel\\assignCources.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\assignCources.cs",
+              "RelativeToolTip": "adminPanel\\assignCources.cs",
+              "ViewState": "AgIAABUBAAAAAAAAAAAqwC0BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T01:10:58.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "courseAdd.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\courseAdd.cs",
+              "RelativeDocumentMoniker": "adminPanel\\courseAdd.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\courseAdd.cs",
+              "RelativeToolTip": "adminPanel\\courseAdd.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAqwNQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:34:30.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Manage_Faculty.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\Manage_Faculty.cs",
+              "RelativeDocumentMoniker": "adminPanel\\Manage_Faculty.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\Manage_Faculty.cs",
+              "RelativeToolTip": "adminPanel\\Manage_Faculty.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvyQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:35:17.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AdProfile.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\AdProfile.cs",
+              "RelativeDocumentMoniker": "adminPanel\\AdProfile.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\AdProfile.cs",
+              "RelativeToolTip": "adminPanel\\AdProfile.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwEYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:20:25.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Contact_Us.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\Contact_Us.cs",
+              "RelativeDocumentMoniker": "LogIn Panel\\Contact_Us.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\Contact_Us.cs",
+              "RelativeToolTip": "LogIn Panel\\Contact_Us.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T11:03:21.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LogIn Panel\\LoginForm.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\LoginForm.cs",
+              "RelativeToolTip": "LogIn Panel\\LoginForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBAAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:21:42.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "forgetPass.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\forgetPass.cs",
+              "RelativeDocumentMoniker": "LogIn Panel\\forgetPass.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\forgetPass.cs",
+              "RelativeToolTip": "LogIn Panel\\forgetPass.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBMAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T11:08:43.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "roundedRegion.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\Rounded Region\\roundedRegion.cs",
+              "RelativeDocumentMoniker": "Rounded Region\\roundedRegion.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\Rounded Region\\roundedRegion.cs",
+              "RelativeToolTip": "Rounded Region\\roundedRegion.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T11:10:10.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "dragForm.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\Rounded Region\\dragForm.cs",
+              "RelativeDocumentMoniker": "Rounded Region\\dragForm.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\Rounded Region\\dragForm.cs",
+              "RelativeToolTip": "Rounded Region\\dragForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T18:03:20.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\Database Connection\\DbConnection.cs",
+              "RelativeDocumentMoniker": "Database Connection\\DbConnection.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\Database Connection\\DbConnection.cs",
+              "RelativeToolTip": "Database Connection\\DbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T11:09:08.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Quiz.Designer.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentPanel\\Quiz.Designer.cs",
+              "RelativeDocumentMoniker": "studentPanel\\Quiz.Designer.cs",
+              "ToolTip": "G:\\Other computers\\My Drives\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentPanel\\Quiz.Designer.cs",
+              "RelativeToolTip": "studentPanel\\Quiz.Designer.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:58:55.356Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
